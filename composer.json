@@ -1,0 +1,17 @@
+{
+    "name": "lxy/mb-addons",
+    "description": "mb-addons for my lxy",
+    "type": "library",
+    "license": "apache",
+    "require": {
+        "php": ">=7"
+    },
+    "authors": [
+        {
+            "name": "lxy",
+            "email": "sjd19951218@foxmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
